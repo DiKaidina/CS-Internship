@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\Fridge.DAL\\Fridge.DAL\\Fridge.DAL.csproj": {}
+    "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\repka\\CS-Internship\\Module4_HW\\Fridge.DAL\\Fridge.DAL\\Fridge.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\Fridge.DAL\\Fridge.DAL\\Fridge.DAL.csproj": {
+    "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\repka\\CS-Internship\\Module4_HW\\Fridge.DAL\\Fridge.DAL\\Fridge.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\Fridge.DAL\\Fridge.DAL\\Fridge.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\repka\\CS-Internship\\Module4_HW\\Fridge.DAL\\Fridge.DAL\\Fridge.DAL.csproj",
         "projectName": "Fridge.DAL",
-        "projectPath": "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\Fridge.DAL\\Fridge.DAL\\Fridge.DAL.csproj",
+        "projectPath": "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\repka\\CS-Internship\\Module4_HW\\Fridge.DAL\\Fridge.DAL\\Fridge.DAL.csproj",
         "packagesPath": "C:\\Users\\DIANA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\Fridge.DAL\\Fridge.DAL\\obj\\",
+        "outputPath": "C:\\Users\\DIANA\\Desktop\\поликек\\осень 2023-2024\\computer science internship\\repka\\CS-Internship\\Module4_HW\\Fridge.DAL\\Fridge.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
