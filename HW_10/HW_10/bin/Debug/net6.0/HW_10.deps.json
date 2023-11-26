@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HW_10/1.0.0": {
+        "dependencies": {
+          "Person": "1.0.0",
+          "Student": "1.0.0",
+          "StudentWithTeacher": "1.0.0",
+          "Teacher": "1.0.0"
+        },
+        "runtime": {
+          "HW_10.dll": {}
+        }
+      },
+      "Person/1.0.0": {
+        "runtime": {
+          "Person.dll": {}
+        }
+      },
+      "Student/1.0.0": {
+        "dependencies": {
+          "Person": "1.0.0"
+        },
+        "runtime": {
+          "Student.dll": {}
+        }
+      },
+      "StudentWithTeacher/1.0.0": {
+        "dependencies": {
+          "Student": "1.0.0",
+          "Teacher": "1.0.0"
+        },
+        "runtime": {
+          "StudentWithTeacher.dll": {}
+        }
+      },
+      "Teacher/1.0.0": {
+        "dependencies": {
+          "Person": "1.0.0"
+        },
+        "runtime": {
+          "Teacher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HW_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Person/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentWithTeacher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Teacher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
